@@ -6,7 +6,8 @@ Foto:<img width="1206" height="903" alt="image" src="https://github.com/user-att
 
 ## Resumo: O trabalho de casa dado na segunda aula da teórica e prática tem como intuito criar um programa em python para o jogo "adivinha o número", em que esse mesmo jogo poderia ter duas modalidades: o computador pensa num número (entre 0 e 100)e o utilizador tenta adivinhar ou o utilizador pensa num número (entre 0 e 100) e o computador tenta adivinhar;    Quem tenta adivinhar responde com uma das afirmações: "Acertou", "O número que pensei é Maior" ou "O número que pensei é Menor". Uma vez descoberto o número o programa deve terminar imprimindo o número de tentativas que quem adivinhou usou para chegar ao resultado.
 
-## resultados:
+## resultados (programa em python):
+"C:\Users\iaram\OneDrive\Desktop\Jogo adivinha o número.py"
 inicio= input("Olá jogador vamos jogar ao jogo ´adivinha o número`, eu ja pensei no meu número entre 0 e 100! Podes tentar adivinhar respondendo apenas com um número inteiro. Boa sorte! Escreve: ´ . ` ,para começar o jogo")
 if inicio== ".":
     n= int(input("adivinha o número:"))
