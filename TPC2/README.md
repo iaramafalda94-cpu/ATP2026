@@ -9,6 +9,7 @@ Foto:<img width="1206" height="903" alt="image" src="https://github.com/user-att
 ## resultados (programa em python):
 [Jogo adivinha o número.py](https://github.com/user-attachments/files/32538463/Jogo.adivinha.o.numero.py)
 
+# Código:
 inicio= input("Olá jogador vamos jogar ao jogo ´adivinha o número`, eu ja pensei no meu número entre 0 e 100! Podes tentar adivinhar respondendo apenas com um número inteiro. Boa sorte! Escreve: ´ . ` ,para começar o jogo")
 if inicio== ".":
     n= int(input("adivinha o número:"))
