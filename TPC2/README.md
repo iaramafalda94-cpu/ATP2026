@@ -8,13 +8,15 @@ Foto:<img width="1206" height="903" alt="image" src="https://github.com/user-att
 
 # Código:
 inicio= input("Olá jogador vamos jogar ao jogo ´adivinha o número`, eu ja pensei no meu número entre 0 e 100! Podes tentar adivinhar respondendo apenas com um número inteiro. Boa sorte! Escreve: ´ . ` ,para começar o jogo")
+import random
 if inicio== ".":
+    numerosecreto = random.randint(0, 100)
     n= int(input("adivinha o número:"))
     tentativas = 1
-    while n!=23:
-        if n>23:
+    while n!= numerosecreto:
+        if n>numerosecreto:
             n= int(input("o número que pensei é menor, tenta novamente:"))
-        elif n<23:
+        elif n<numerosecreto:
             n= int(input("o número que pensei é maior, tenta novamente:"))
         tentativas = tentativas + 1
     print("Acertou!")
