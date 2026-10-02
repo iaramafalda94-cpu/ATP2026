@@ -10,7 +10,7 @@ Foto:<img width="1206" height="903" alt="image" src="https://github.com/user-att
 print("O computador começa! Boa sorte.")
 total = 0
 
-num_computador = 10
+num_computador = 1
 total = total + num_computador
 print(f"O computador adiciona {num_computador}. Total = {total}")
 
