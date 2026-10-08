@@ -1,4 +1,4 @@
-# TPC2: Corrida para o 100
+# TPC3: Corrida para o 100
 # # Autor: 
 Iara Gonçalves;
 114372; 
