@@ -6,4 +6,4 @@ Foto:<img width="301" height="226" alt="image" src="https://github.com/user-atta
 
 ## Resumo: O trabalho de casa dado na quinta aula da teórica e prática tem como intuito criar um programa em python para uma aplicação de gestão de alunos, em que o programa exibe um menu com várias opções e o utilizador deve selecionar a opção que pretender tendo em conta a operação que pretende realizar.
 # Trabalho:
-- tpc5.py
+- [tpc5](tpc5.py)
